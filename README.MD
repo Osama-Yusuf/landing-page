@@ -1,4 +1,4 @@
-# Landing Page Project
+# [Landing Page Project](https://landin-page-project.netlify.app/)
 
 The code in this repository is meant to satisfy the project # 2 rubric of the Front Ent Web Developer nanodegree.
 Landing page is the conversion of a static page to a page that allows some sort of interaction. The dynamicity is achieved through javascript.
